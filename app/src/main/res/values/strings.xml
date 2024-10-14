@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HiFive</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+</resources>
