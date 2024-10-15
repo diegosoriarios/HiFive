@@ -55,7 +55,9 @@ fun SettingsScreen(viewModel: HiViewModel, navController: NavController) {
                 disabledLabelColor = MaterialTheme.colorScheme.tertiary,
                 focusedIndicatorColor = Color.Transparent,
                 unfocusedIndicatorColor = Color.Transparent,
-                focusedLabelColor = MaterialTheme.colorScheme.secondary
+                focusedLabelColor = Color.Black,
+                unfocusedLabelColor = Color.Black,
+                textColor = Color.Black,
             )
         )
         Row(

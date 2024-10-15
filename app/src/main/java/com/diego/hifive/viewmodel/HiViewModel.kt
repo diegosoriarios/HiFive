@@ -37,7 +37,7 @@ class HiViewModel(context: Context): ViewModel() {
         _uiState.update { currentState ->
             currentState.copy(
                 status = STATES.HANGING,
-                message = Message("Waiting", "")
+                message = Message("Esperando", "")
             )
         }
     }
